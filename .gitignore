@@ -2,3 +2,4 @@
 *.http
 /node_modules
 .vscode
+dist
